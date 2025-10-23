@@ -25,6 +25,6 @@
 To run this project locally:
 
 ```bash
-git clone https://github.com/your-username/treact-clone.git
-cd treact-clone
+git clone https://github.com/pharaohmak/TReact-Clone.git
+cd TReact-Clone
 open index.html
