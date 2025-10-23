@@ -18,7 +18,7 @@
 ## 📸 Screenshots
 
 <!-- Optional: Add screenshots here -->
-<!-- ![Screenshot 1](./screenshots/treact-home.png) -->
+![Screenshot 1](./TReact-Clone.png)
 
 ## 📦 Installation
 
